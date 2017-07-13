@@ -1,0 +1,17 @@
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\bin\Debug\Consultorio Dental.exe.config
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\bin\Debug\Consultorio Dental.exe
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\bin\Debug\Consultorio Dental.pdb
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.Properties.Resources.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio Dental.csproj.GenerateResource.Cache
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio Dental.exe
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio Dental.pdb
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio Dental.csprojResolveAssemblyReference.cache
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmAgenda.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmBuscar.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmHome.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmLogin.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmModificar.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmPacientes.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmRegistro.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmRegistroUsuario.resources
+F:\5 Semestre\Estructura de Datos II\Proyecto de Consultorio Dental\Consultorio Dental\Consultorio Dental\obj\Debug\Consultorio_Dental.frmSalir.resources

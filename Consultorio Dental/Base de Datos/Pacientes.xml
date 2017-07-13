@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pacientes>
+  <Paciente>
+    <Id>2</Id>
+    <Nombre>German</Nombre>
+    <Apellido>Apaza Ticona</Apellido>
+    <Sexo>Masculino</Sexo>
+    <Carnet>3456456 LP</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Apolo</Direccion>
+    <Localidad>Quillacollo</Localidad>
+    <Celular>83473752</Celular>
+    <Comentario>Tres dientes picados</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>3</Id>
+    <Nombre>Sergio</Nombre>
+    <Apellido>Mita Calle</Apellido>
+    <Sexo>Masculino</Sexo>
+    <Carnet>234234 CB</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Calle Siete</Direccion>
+    <Localidad>Quillacollo</Localidad>
+    <Celular>74563453</Celular>
+    <Comentario>Ultima Limpieza</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>4</Id>
+    <Nombre>Juan Carlos</Nombre>
+    <Apellido>Colque Ticona</Apellido>
+    <Sexo>Masculino</Sexo>
+    <Carnet>23243234 SC</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Palos Blancos</Direccion>
+    <Localidad>Sipe Sipe</Localidad>
+    <Celular>73452333</Celular>
+    <Comentario>Muchas Muelas</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>5</Id>
+    <Nombre>Gladdyz</Nombre>
+    <Apellido>Mamani Quispe</Apellido>
+    <Sexo>Femenino</Sexo>
+    <Carnet>3423423 SC</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Calle Bolivar</Direccion>
+    <Localidad>Sipe Sipe</Localidad>
+    <Celular>75634534</Celular>
+    <Comentario>Revision Constante</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>6</Id>
+    <Nombre>Rut Nayely</Nombre>
+    <Apellido>Gutierrez</Apellido>
+    <Sexo>Femenino</Sexo>
+    <Carnet>3241241 SC</Carnet>
+    <Nacimiento>miércoles, 22 de junio de 1994</Nacimiento>
+    <Direccion>Calla Zaragoza</Direccion>
+    <Localidad>Vinto</Localidad>
+    <Celular>634234234</Celular>
+    <Comentario>Dientes Leches</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>7</Id>
+    <Nombre>Paola</Nombre>
+    <Apellido>Santillana</Apellido>
+    <Sexo>Femenino</Sexo>
+    <Carnet>534535 CB</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Calle Los Pinos</Direccion>
+    <Localidad>Quillacollo</Localidad>
+    <Celular>73452342</Celular>
+    <Comentario>Ninguna</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>8</Id>
+    <Nombre>Mateo</Nombre>
+    <Apellido>Cantaros</Apellido>
+    <Sexo>Masculino</Sexo>
+    <Carnet>342342 PA</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Avenida Santos # 1023</Direccion>
+    <Localidad>Cochabamba</Localidad>
+    <Celular>623423443</Celular>
+    <Comentario>Limpieza Constatente</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>9</Id>
+    <Nombre>Ronald</Nombre>
+    <Apellido>Condori Choque</Apellido>
+    <Sexo>Masculino</Sexo>
+    <Carnet>3542342 PA</Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Calle Jardin # 2303</Direccion>
+    <Localidad>Quillacollo</Localidad>
+    <Celular>634324234</Celular>
+    <Comentario>Extraccion de un Diente</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>10</Id>
+    <Nombre>Carla Merys</Nombre>
+    <Apellido>Ramirez Vazques</Apellido>
+    <Sexo>Femenino</Sexo>
+    <Carnet>54645632 BN  </Carnet>
+    <Nacimiento>domingo, 15 de mayo de 2016</Nacimiento>
+    <Direccion>Calle San Agustin # 837</Direccion>
+    <Localidad>Vinto</Localidad>
+    <Celular>655234234</Celular>
+    <Comentario>Nueva solo consulta</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>10</Id>
+    <Nombre>Carla Mery</Nombre>
+    <Apellido>Ramirez Vazques</Apellido>
+    <Sexo>Femenino</Sexo>
+    <Carnet>domingo, 15 de mayo de 2016 </Carnet>
+    <Nacimiento>54645632 BN  </Nacimiento>
+    <Direccion>Calle San Agustin # 837</Direccion>
+    <Localidad>Vinto</Localidad>
+    <Celular>655234234</Celular>
+    <Comentario>Nueva solo consulta</Comentario>
+  </Paciente>
+  <Paciente>
+    <Id>1</Id>
+    <Nombre>Benjamin</Nombre>
+    <Apellido>Vallivian</Apellido>
+    <Sexo>Masculino</Sexo>
+    <Carnet>3242345 LP</Carnet>
+    <Nacimiento>viernes, 13 de mayo de 2016</Nacimiento>
+    <Direccion>Vinto</Direccion>
+    <Localidad>Quillacollo</Localidad>
+    <Celular>345345345</Celular>
+    <Comentario></Comentario>
+  </Paciente>
+</Pacientes>

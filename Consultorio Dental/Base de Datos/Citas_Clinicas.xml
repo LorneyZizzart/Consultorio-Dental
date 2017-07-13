@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Citas>
+  <Cita>
+    <NuCita>1</NuCita>
+    <Nombre_Completo>Jhonny Gutierrez Villca</Nombre_Completo>
+    <Carnet>8282702</Carnet>
+    <Day>15</Day>
+    <Month>7</Month>
+    <Year>2016</Year>
+    <Fecha>viernes, 15 de julio de 2016</Fecha>
+    <Hora>14:30</Hora>
+    <Especialidad>Extraccion</Especialidad>
+    <Tipo>Adolescente</Tipo>
+    <Observaciones>Muchas muelas</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>2</NuCita>
+    <Nombre_Completo>Luis Fernando Gutierrez Villca</Nombre_Completo>
+    <Carnet>3456787 LP</Carnet>
+    <Day>28</Day>
+    <Month>5</Month>
+    <Year>2016</Year>
+    <Fecha>sábado, 28 de mayo de 2016</Fecha>
+    <Hora>10:30</Hora>
+    <Especialidad>Limpieza</Especialidad>
+    <Tipo>Adolescente</Tipo>
+    <Observaciones>Limpieza Constante</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>3</NuCita>
+    <Nombre_Completo>Carlos Andres Perez Sanchez</Nombre_Completo>
+    <Carnet>4353453 CB</Carnet>
+    <Day>21</Day>
+    <Month>7</Month>
+    <Year>2016</Year>
+    <Fecha>jueves, 21 de julio de 2016</Fecha>
+    <Hora>16:00</Hora>
+    <Especialidad>Curación</Especialidad>
+    <Tipo>Adulto</Tipo>
+    <Observaciones>Muchas Muelas</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>4</NuCita>
+    <Nombre_Completo>Grisel Mery Sandoval Paz</Nombre_Completo>
+    <Carnet>3123123 LP</Carnet>
+    <Day>15</Day>
+    <Month>6</Month>
+    <Year>2016</Year>
+    <Fecha>miércoles, 15 de junio de 2016</Fecha>
+    <Hora>07:00</Hora>
+    <Especialidad>Consulta</Especialidad>
+    <Tipo>Niña</Tipo>
+    <Observaciones>Muelas</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>5</NuCita>
+    <Nombre_Completo>Angela Leyva Sans</Nombre_Completo>
+    <Carnet>2423421 SC</Carnet>
+    <Day>15</Day>
+    <Month>7</Month>
+    <Year>2016</Year>
+    <Fecha>viernes, 15 de julio de 2016</Fecha>
+    <Hora>14:00</Hora>
+    <Especialidad>Consulta</Especialidad>
+    <Tipo>Adulto</Tipo>
+    <Observaciones>Picadas 5 dientes</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>6</NuCita>
+    <Nombre_Completo>Brayan Quispe Sanchez</Nombre_Completo>
+    <Carnet>3435523 BN</Carnet>
+    <Day>12</Day>
+    <Month>5</Month>
+    <Year>2016</Year>
+    <Fecha>jueves, 12 de mayo de 2016</Fecha>
+    <Hora>15:00</Hora>
+    <Especialidad>Limpieza</Especialidad>
+    <Tipo>Niña</Tipo>
+    <Observaciones></Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>7 [U]</NuCita>
+    <Nombre_Completo>Richard Martinez</Nombre_Completo>
+    <Carnet>324567 CB</Carnet>
+    <Day>28</Day>
+    <Month>5</Month>
+    <Year>2016</Year>
+    <Fecha>sábado, 28 de mayo de 2016</Fecha>
+    <Hora>15:00</Hora>
+    <Especialidad>Extracción</Especialidad>
+    <Tipo>Niño</Tipo>
+    <Observaciones>Limpieza de Dientes</Observaciones>
+    <Caracteristica>Cita Urgente</Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>8 [U]</NuCita>
+    <Nombre_Completo>Franki Lopez Minti</Nombre_Completo>
+    <Carnet>345346 CB</Carnet>
+    <Day>28</Day>
+    <Month>5</Month>
+    <Year>2016</Year>
+    <Fecha>sábado, 28 de mayo de 2016</Fecha>
+    <Hora>16:30</Hora>
+    <Especialidad>Consulta</Especialidad>
+    <Tipo>Adulto</Tipo>
+    <Observaciones>Revision de muela extraida</Observaciones>
+    <Caracteristica>Cita Urgente</Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>9</NuCita>
+    <Nombre_Completo>German Apaza Ticona</Nombre_Completo>
+    <Carnet>3456456 LP</Carnet>
+    <Day>29</Day>
+    <Month>7</Month>
+    <Year>2016</Year>
+    <Fecha>viernes, 29 de julio de 2016</Fecha>
+    <Hora>17:00</Hora>
+    <Especialidad>Curación</Especialidad>
+    <Tipo>Adulto</Tipo>
+    <Observaciones>Tres dientes picados</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>10 [U]</NuCita>
+    <Nombre_Completo>Jhonny Gutierrez</Nombre_Completo>
+    <Carnet>8282702LP </Carnet>
+    <Day>18</Day>
+    <Month>6</Month>
+    <Year>2016</Year>
+    <Fecha>sábado, 18 de junio de 2016</Fecha>
+    <Hora>16:00</Hora>
+    <Especialidad>Curación</Especialidad>
+    <Tipo>Adolescente</Tipo>
+    <Observaciones>Muelas</Observaciones>
+    <Caracteristica>Cita Urgente</Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>12</NuCita>
+    <Nombre_Completo>Ronald Condori Choque</Nombre_Completo>
+    <Carnet>3542342 PA</Carnet>
+    <Day>1</Day>
+    <Month>6</Month>
+    <Year>2016</Year>
+    <Fecha>miércoles, 1 de junio de 2016</Fecha>
+    <Hora>09:30</Hora>
+    <Especialidad>Curación</Especialidad>
+    <Tipo>Adolescente</Tipo>
+    <Observaciones>Extraccion de un Diente</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>13 [U]</NuCita>
+    <Nombre_Completo>Carla Ramirez Vazques</Nombre_Completo>
+    <Carnet>54645632 BN</Carnet>
+    <Day>2</Day>
+    <Month>6</Month>
+    <Year>2016</Year>
+    <Fecha>jueves, 2 de junio de 2016</Fecha>
+    <Hora>10:30</Hora>
+    <Especialidad>Curación</Especialidad>
+    <Tipo>Niña</Tipo>
+    <Observaciones>Nueva solo consulta</Observaciones>
+    <Caracteristica>Cita Urgente</Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>14</NuCita>
+    <Nombre_Completo>Paola Santillana</Nombre_Completo>
+    <Carnet>534535 CB</Carnet>
+    <Day>10</Day>
+    <Month>6</Month>
+    <Year>2016</Year>
+    <Fecha>viernes, 10 de junio de 2016</Fecha>
+    <Hora>11:00</Hora>
+    <Especialidad>Limpieza</Especialidad>
+    <Tipo>Niña</Tipo>
+    <Observaciones>Ninguna</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+  <Cita>
+    <NuCita>14</NuCita>
+    <Nombre_Completo>Sergio Mita Calle</Nombre_Completo>
+    <Carnet>234234 CB</Carnet>
+    <Day />
+    <Month />
+    <Year />
+    <Fecha></Fecha>
+    <Hora />
+    <Especialidad />
+    <Tipo />
+    <Observaciones>Ultima Limpieza</Observaciones>
+    <Caracteristica></Caracteristica>
+  </Cita>
+</Citas>
